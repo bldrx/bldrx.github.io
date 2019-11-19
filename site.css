@@ -1,0 +1,56 @@
+body {
+    padding-bottom: 20px
+}
+
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px
+}
+
+.field-validation-error {
+    color: red
+}
+
+.input-validation-error {
+    border-color: red !important
+}
+
+.dl-horizontal dt {
+    white-space: normal
+}
+
+td.actions {
+    text-align: right
+}
+
+input,
+select,
+textarea {
+    max-width: 280px
+}
+
+.nav-tabs .nav-link {
+    background-color: #eee;
+    margin: 0 1px
+}
+
+.nav-tabs .nav-link.active,
+.nav-tabs .nav-link.active:hover {
+    border-top: 3px solid #fe9;
+    background-color: inherit
+}
+
+.tab-content {
+    border: 1px solid #dee2e6;
+    border-top: none;
+    margin: 0 1px 1em 1px;
+    padding: 1em 1em 0 1em
+}
+
+footer {
+    border-top: 1pt solid #eee;
+    font-size: .8em;
+    margin: 1em;
+    padding: 1em;
+    text-align: center
+}
